@@ -29,6 +29,8 @@
     display: flex;
     background: -webkit-linear-gradient(#FF8124, #E1D794);
     flex-direction: row;
+    justify-content: flex-end;  
+    font-size: 30px;
 }
 
 .menu{
@@ -37,7 +39,7 @@
 
 .contact-us{
     justify-content: flex-end;  
-    font-size: 40px;
+    font-size: 30px;
     display: flex;
 }
 
