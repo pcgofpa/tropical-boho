@@ -1,0 +1,7 @@
+Red: #F5271D
+Orange: #FF8124
+Light Orange: #E5802F
+Cream: #E1D794
+Black: #000000
+Teal: #119980
+
