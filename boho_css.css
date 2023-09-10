@@ -20,15 +20,18 @@
     display: inline-block;
 }
 
+.stand_img{
+    display: flex;
+}
+
 .content{
     display: flex;
     background: -webkit-linear-gradient(#FF8124, #E1D794);
     flex-direction: row;
 }
 
-.stand_img{
-    size: 50%;
-    justify-content: flex-start;   
+.menu{
+    display: flex;
 }
 
 .contact-us{
